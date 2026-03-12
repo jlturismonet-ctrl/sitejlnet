@@ -415,11 +415,11 @@ export default function Home() {
             <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-8 text-left">
               <div>
                 <p className="font-bold text-lg mb-2">📞 Telefone</p>
-                <p className="text-blue-100">(11) 3000-0000</p>
+                <p className="text-blue-100">(11) 98140-8408</p>
               </div>
               <div>
                 <p className="font-bold text-lg mb-2">📧 Email</p>
-                <p className="text-blue-100">contato@jlconsultoria.com.br</p>
+                <p className="text-blue-100">joao@jlturismo.net.br</p>
               </div>
               <div>
                 <p className="font-bold text-lg mb-2">📍 Localização</p>
@@ -444,7 +444,7 @@ export default function Home() {
             </div>
             <p className="text-sm">© 2026 JL Consultoria. Todos os direitos reservados.</p>
             <div className="flex gap-6 mt-4 md:mt-0">
-              <a href="https://www.instagram.com/joaoleonardofigueiredo?igsh=dWdhdmo3Y25zd2F0" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">Instagram</a>
+              <a href="https://www.instagram.com/jlconsultoriaemturismo/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">Instagram</a>
               <a href="https://wa.me/5511981408408" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">WhatsApp</a>
             </div>
           </div>
