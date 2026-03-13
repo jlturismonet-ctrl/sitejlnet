@@ -36,7 +36,7 @@ export default function Home() {
               alt="JL Consultoria"
               className="w-10 h-10"
             />
-            <span className="font-bold text-lg text-blue-900">JL Consultoria</span>
+            <span className="font-bold text-lg text-blue-900">JL Consultoria em Turismo</span>
           </div>
           <div className="hidden md:flex items-center gap-8">
             <a href="#servicos" className="text-sm font-medium hover:text-blue-900 transition">Serviços</a>
@@ -62,7 +62,7 @@ export default function Home() {
               <span className="text-amber-500">Perfeitamente Planejadas</span>
             </h1>
             <p className="text-lg text-slate-600 leading-relaxed max-w-lg">
-              Na JL Consultoria, transformamos seus sonhos de viagem em experiências inesquecíveis. Com atendimento consultivo e especializado, cuidamos de cada detalhe para que você viaje com tranquilidade.
+              Na JL Consultoria em Turismo, transformamos seus sonhos de viagem em experiências inesquecíveis. Com atendimento consultivo e especializado, cuidamos de cada detalhe para que você viaje com tranquilidade.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
               <a href="https://wa.me/5511981408408" target="_blank" rel="noopener noreferrer">
@@ -343,7 +343,7 @@ export default function Home() {
               {
                 name: "Marina Silva",
                 role: "Executiva",
-                text: "A JL Consultoria transformou minha viagem de negócios em uma experiência memorável. Cada detalhe foi cuidadosamente planejado.",
+                text: "A JL Consultoria em Turismo transformou minha viagem de negócios em uma experiência memorável. Cada detalhe foi cuidadosamente planejado.",
                 rating: 5,
               },
               {
@@ -355,7 +355,7 @@ export default function Home() {
               {
                 name: "Ana Costa",
                 role: "Viajante Frequente",
-                text: "Já viajei com várias agências, mas a JL Consultoria realmente se destaca pelo atendimento personalizado e atenção aos detalhes.",
+                text: "Já viajei com várias agências, mas a JL Consultoria em Turismo realmente se destaca pelo atendimento personalizado e atenção aos detalhes.",
                 rating: 5,
               },
             ].map((testimonial, idx) => (
@@ -440,9 +440,9 @@ export default function Home() {
                 alt="JL Consultoria"
                 className="w-8 h-8"
               />
-              <span className="font-bold">JL Consultoria</span>
+              <span className="font-bold">JL Consultoria em Turismo</span>
             </div>
-            <p className="text-sm">© 2026 JL Consultoria. Todos os direitos reservados.</p>
+            <p className="text-sm">© 2026 JL Consultoria em Turismo. Todos os direitos reservados.</p>
             <div className="flex gap-6 mt-4 md:mt-0">
               <a href="https://www.instagram.com/jlconsultoriaemturismo/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">Instagram</a>
               <a href="https://wa.me/5511981408408" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">WhatsApp</a>
